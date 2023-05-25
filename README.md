@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Panthoji
+- 👋 Hi, I’m @Panthoji Rakesh
 - 👀 I’m interested in PowerBI
 - 🌱 I’m currently learning PowerBI
 - 💞️ I’m looking to collaborate on MSBI, PowerBI, SQL
